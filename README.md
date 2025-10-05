@@ -6,4 +6,4 @@
 goofy stuff only 👅
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorzillaGamerhd)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzillagamerhd&layout=compact)
